@@ -1,0 +1,30 @@
+{
+  "name": "{% package_title %}",
+  "homepage": "https://clippings/{% package_name %}",
+  "version": "0.0.1",
+  "authors": [
+    "{% author_name %} <{% author_email %}>"
+  ],
+  "description": "{% description %}",
+  "main": [
+    "js/{% package_title %}.min.js",
+    "sass/{% package_title %}.sass"
+  ],
+  "moduleType": "globals",
+  "keywords": [
+  ],
+  "license": "BSD-3-Clause",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "docs",
+    "build",
+    ".sass-cache",
+    "Gruntfile.js",
+    "js"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.7.0"
+  }
+}

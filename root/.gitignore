@@ -1,0 +1,7 @@
+/vendor/
+/build/
+.sass-cache
+/node_modules/
+/dist/
+{% package_title %}.zip
+/docs/build/

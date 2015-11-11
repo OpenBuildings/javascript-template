@@ -1,0 +1,7 @@
+js/
+.*
+build/
+bower.json
+{% package_title %}.zip
+CONTRIBUTING.md
+Gruntfile.js
