@@ -12,11 +12,11 @@
 
 Using [jspm](http://jspm.io/):
 
-    jspm install npm:clippings-html5-sortable
+    jspm install npm:{% package_title %}
 
 Using npm:
 
-    npm install clippings-html5-sortable
+    npm install {% package_title %}
 
 Manual:
 
