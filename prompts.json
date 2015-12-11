@@ -2,7 +2,6 @@
 	"package_name",
 	"title",
 	"description",
-	"php_namespace",
 	"author_name",
 	"author_email",
 	"copyright",
